@@ -1,0 +1,6 @@
+*.h linguist-detectable=false
+*.cpp linguist-detectable=false
+*.c linguist-detectable=false
+*.txt linguist-detectable=false
+*.dart linguist-detectable=true
+*.{dart} linguist-language=Dart
